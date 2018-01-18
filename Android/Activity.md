@@ -16,4 +16,4 @@
     
     
     
-    ![Activity正常情况下生命周期流程图](https://github.com/qiuqifan/Image-repository-for-blog/blob/master/Android/Activity-life-cycler-normal-flow_diagram.png)
+    ![Activity正常情况下生命周期流程图](https://raw.githubusercontent.com/qiuqifan/Image-repository-for-blog/master/Android/Activity-life-cycler-normal-flow_diagram.png)
